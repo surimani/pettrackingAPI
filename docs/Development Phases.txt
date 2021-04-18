@@ -1,0 +1,16 @@
+Development Phases
+--------------------
+
+Phase 1:
+--------
+
+1. Modify the prototype as per the architecture diagram.
+2. Make the prototype more robust by adding Authentication/Authorization Services, Pagination Features, Validations, etc.
+
+Phase 2:
+--------
+1. Gradually Phase out the Mock data and develop using real data.
+
+Phase 3:
+--------
+1. Make it production ready by integrating all services and testing with real devices.
